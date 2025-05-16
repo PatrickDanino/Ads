@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vmap:VMAP xmlns:vmap="http://www.iab.net/vmap-1.0" version="1.0">
+<vmap:AdBreak breakId="0.0.0.1676250981" breakType="linear" timeOffset="start">
+<vmap:AdSource allowMultipleAds="true" followRedirects="true" id="1">
+<vmap:VASTAdData>
+
+
+    <VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast_2.0.1-creativeView.xsd" version="2.0">
+        <Ad id="moat_ad">
+            <InLine>
+                <AdSystem>2.0</AdSystem>
+                <AdTitle>Rolex_-_ROLEX_INTL_Cinema-Phase-2_2018-26395396</AdTitle>
+                    <Impression></Impression>
+                <Creatives>
+                    <Creative>
+                        <Linear>
+                            <Duration>00:00:10</Duration>
+                              
+                            <MediaFiles>
+                                 <MediaFile type="application/javascript" apiFramework="VPAID" height="1080" width="1920" delivery="progressive"> <![CDATA[https://svastx.moatads.com/mindshareglobalrolexvpaid251916711767/moatwrapper.js#vast=https%3a%2f%2fbs.serving-sys.com%2fServing%3fcn%3ddisplay%26c%3d23%26pl%3dVAST%26pli%3d26395396%26PluID%3d0%26pos%3d2186%26ord%3d555426944%26cim%3d1&level1=925480&level2=IMDB%20UK%20-%20RunofSite&level3=26395396&level4=vpaid&slicer1=undefined&slicer2=undefined&pcode=mindshareglobalrolexvpaid251916711767&spvb=1&zMoatADV=21620]]> </MediaFile>
+                            </MediaFiles>
+                        </Linear>
+                    </Creative>
+                        
+                </Creatives>
+            </InLine>
+        </Ad>
+    </VAST>
+
+</vmap:VASTAdData>
+</vmap:AdSource>
+<vmap:TrackingEvents />
+</vmap:AdBreak>
+</vmap:VMAP>
