@@ -26,12 +26,12 @@
                             <ClickThrough><![CDATA[https://servedby.flashtalking.com/click/8/275221;9446330;5273706;211;0/?random=1961910274&ft_width=1920&ft_height=1080&ft_impID=B54D607C-645E-AF0B-FBEC-D4E997CA1E9A&ft_pid=&ft_custom=______&ft_c1=&ft_c2=&ft_c3=&ft_id=&ft_keyword=&ft_mcid=&ft_mliid=&ft_partnerimpid=&ft_partnerid=&pbMethods=&ft_section=&gdpr=0&gdpr_consent=&gdpr_pd=FT_GDPR_PD&us_privacy=!!US_PRIVACY!&url=https://ad.doubleclick.net/ddm/trackclk/N8667.160337.AMAZON.COM/B33484947.418511026;dc_trk_aid=611072786;dc_trk_cid=61649687;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1?https://www.xfinity.com/mobile?CMP=BAC:OLV-%ebuy!-%esid!-%epid!-%ecid!]]></ClickThrough>
                         </VideoClicks>
                         <MediaFiles>
-                            <MediaFile id="3356547" delivery="progressive" type="video/mp4" bitrate="10000" width="1920" height="1080"><![CDATA[https://patrickdanino.github.io/Test/Videos/Ad-1080p.mp4?cb=1745263200000]]></MediaFile>
-                            <MediaFile id="3506201" delivery="progressive" type="video/mp4" bitrate="3100" width="1280" height="720"><![CDATA[https://patrickdanino.github.io/Test/Videos/Ad-720p.mp4?cb=1745263200000]]></MediaFile>
-                            <MediaFile id="2431678" delivery="progressive" type="video/mp4" bitrate="1200" width="854" height="480"><![CDATA[https://patrickdanino.github.io/Test/Videos/Ad-480p.mp4?cb=1745263200000]]></MediaFile>
-                            <MediaFile id="9653722" delivery="progressive" type="video/mp4" bitrate="550" width="640" height="360"><![CDATA[https://patrickdanino.github.io/Test/Videos/Ad-360p.mp4?cb=1745263200000]]></MediaFile>
-                            <MediaFile id="7650108" delivery="progressive" type="video/mp4" bitrate="180" width="284" height="160"><![CDATA[https://patrickdanino.github.io/Test/Videos/Ad-160p.mp4?cb=1745263200000]]></MediaFile>
-                            <MediaFile id="8097449" delivery="progressive" type="video/mp4" bitrate="1750" width="1024" height="576"><![CDATA[https://patrickdanino.github.io/Test/Videos/Ad-576p.mp4?cb=1745263200000]]></MediaFile>
+                            <MediaFile id="3356547" delivery="progressive" type="video/mp4" bitrate="10000" width="1920" height="1080"><![CDATA[https://patrickdanino.github.io/Ads/Videos/Ad-1080p.mp4?cb=1745263200000]]></MediaFile>
+                            <MediaFile id="3506201" delivery="progressive" type="video/mp4" bitrate="3100" width="1280" height="720"><![CDATA[https://patrickdanino.github.io/Ads/Videos/Ad-720p.mp4?cb=1745263200000]]></MediaFile>
+                            <MediaFile id="2431678" delivery="progressive" type="video/mp4" bitrate="1200" width="854" height="480"><![CDATA[https://patrickdanino.github.io/Ads/Videos/Ad-480p.mp4?cb=1745263200000]]></MediaFile>
+                            <MediaFile id="9653722" delivery="progressive" type="video/mp4" bitrate="550" width="640" height="360"><![CDATA[https://patrickdanino.github.io/Ads/Videos/Ad-360p.mp4?cb=1745263200000]]></MediaFile>
+                            <MediaFile id="7650108" delivery="progressive" type="video/mp4" bitrate="180" width="284" height="160"><![CDATA[https://patrickdanino.github.io/Ads/Videos/Ad-160p.mp4?cb=1745263200000]]></MediaFile>
+                            <MediaFile id="8097449" delivery="progressive" type="video/mp4" bitrate="1750" width="1024" height="576"><![CDATA[https://patrickdanino.github.io/Ads/Videos/Ad-576p.mp4?cb=1745263200000]]></MediaFile>
                         </MediaFiles>
                     </Linear>
                 </Creative>
