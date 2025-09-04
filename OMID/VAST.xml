@@ -7,21 +7,6 @@
             <Description>Mon Apr 21 19:20:14 UTC 2025</Description>
             <Impression id="ft_vast_i"><![CDATA[https://servedby.flashtalking.com/imp/1/275221;9446330;201;gifimpid;AmazonUS;ALLALLRALLDALLZNOSEGAMAZONSMEDMVPREZDBCPMFTOLVNSNCTOTDYNVID152PVCRPNDBRRONNOCTABADIMDBprerollFLASHTALKING/?ft_impID=B54D607C-645E-AF0B-FBEC-D4E997CA1E9A&ft_pid=&ft_custom=______&ft_c1=&ft_c2=&ft_c3=&ft_id=&ft_mcid=&ft_mliid=&ft_partnerimpid=&ft_partnerid=&pbMethods=&ft_section=&gdpr=0&gdpr_consent=&gdpr_pd=FT_GDPR_PD&us_privacy=!!US_PRIVACY!&ft_creative=5273706&ft_configuration=0&cachebuster=1961910274]]></Impression>
             <Impression id="3rdparty"><![CDATA[https://ad.doubleclick.net/ddm/trackimp/N8667.160337.AMAZON.COM/B33484947.418511026;dc_trk_aid=611072786;dc_trk_cid=61649687;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1?]]></Impression>
-            <AdVerifications>
-                <Verification vendor="TestVendor">
-                    <JavaScriptResource apiFramework="omid" browserOptional="true">
-                        <![CDATA[https://patrickdanino.github.io/Ads/OMID/Validation/omid-validation-verification-script-v1.js]]>
-                    </JavaScriptResource>
-                    <TrackingEvents>
-                        <Tracking event="verificationNotExecuted">
-                            <![CDATA[https://patrickdanino.github.io/Ads/OMID/tracking?event=verificationNotExecuted&timestamp=[TIMESTAMP]]]>
-                        </Tracking>
-                    </TrackingEvents>
-                    <VerificationParameters>
-                        <![CDATA[{"key": "test_value"}]]>
-                    </VerificationParameters>
-                </Verification>
-            </AdVerifications>
             <Creatives>
                 <Creative id="9446330-5273706-0" sequence="1" AdID="5273706-0">
                     <Linear>
