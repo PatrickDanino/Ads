@@ -12,6 +12,11 @@
                     <JavaScriptResource apiFramework="omid" browserOptional="true">
                         <![CDATA[https://patrickdanino.github.io/Ads/OMID/Validation/omid-validation-verification-script-v1.js]]>
                     </JavaScriptResource>
+                    <TrackingEvents>
+                        <Tracking event="verificationNotExecuted">
+                            <![CDATA[https://patrickdanino.github.io/Ads/OMID/tracking?event=verificationNotExecuted&timestamp=[TIMESTAMP]]]>
+                        </Tracking>
+                    </TrackingEvents>
                     <VerificationParameters>
                         <![CDATA[{"key": "test_value"}]]>
                     </VerificationParameters>
